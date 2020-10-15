@@ -15,7 +15,7 @@ const breaks =
   "<p>Try it out for yourself!</p><p>Few line breaks here:<br/>1<br/>2</p>";
 
 const img =
-  '<h2>Image</h2><img src="https://source.unsplash.com/kFrdX5IeQzI" alt="Image from unsplash"></img>';
+  '<h2>Image</h2><img src="https://i.ibb.co/ngqQPzz/photo.jpg" alt="Image from unsplash"></img>';
 
 const picture =
   '<h2>Picture</h2><picture><source srcset="https://res.cloudinary.com/eeeps/image/upload/f_webp,q_70,w_250/on_the_phone.jpg 1x,https://res.cloudinary.com/eeeps/image/upload/f_webp,q_70,w_500/on_the_phone.jpg 2x" type="image/webp"><source srcset="https://res.cloudinary.com/eeeps/image/upload/f_jpeg,q_70,w_250/on_the_phone.jpg 1x,https://res.cloudinary.com/eeeps/image/upload/f_jpeg,q_70,w_500/on_the_phone.jpg 2x"><img src="https://res.cloudinary.com/eeeps/image/upload/f_jpeg,q_70,w_250/on_the_phone.jpg"></picture>';
